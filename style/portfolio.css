@@ -72,5 +72,46 @@ nav ul{
     width: 584px;
     height: 676px;
 }
+/* main */
+.secondary-bg{
+    background-color: #fff8f3;
+
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+main section{
+  margin-top: 130px;
+}
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
 
 
+}
+.item-description{
+    font-weight: 600;
+
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+    
+}
+/* now */
+.text-center{
+    text-align: center;
+}
+/* skills */
+.skills-container{
+    display: flex;
+    gap: 24px;
+
+}
+.skill{
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgb(0, 0, 0,0.06);
+}
